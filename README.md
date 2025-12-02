@@ -1,14 +1,23 @@
-# NanoBanana-Prompts
-Curated collection of prompts for Google's generative model (Gemini/Bard) with examples.
+# Nano Banana Prompts
 
-## Plush Memes Prompt
+A curated collection of prompts and experiments with Google's generative model (Gemini/Bard).
 
-😄 Делаем плюшевые мемы с помощью Nano Banana Pro — один промт.
+## Plush Memes Prompt
 
-Берём любой мем, обрабатываем с помощью промта и получаем реалистичную картинку, но с плюшевыми персонажами. И да, давайте сделаем из этого тренд. Просто публикуйте свои версии и отмечайте меня — лучшее закину в сторис.
+Make plush memes with Nano Banana Pro using a single prompt. This experiment turns drawn memes into photorealistic renders with plush characters. Share your version and tag me; I feature the best examples.
 
-**Prompt:**
+✦  Pick any meme and apply the prompt to transform it into a realistic scene with plush characters.
 
-```text
-Turn this drawn meme into a photorealistic 3D render. Keep the composition, framing, and layout identical, but translate all elements into realistic materials and believable lighting. Convert the main character into a plush toy version of itself, and render all environmental effects with realistic physical behavior.
+✦   Publish your version and tag me; I feature the best examples.
+
+**Prompt**
+
 ```
+Turn this drawn meme into a photorealistic 3D render. Keep the composition, framing and layout identical, but translate all elements into realistic materials and believable lighting. Convert the main character into a plush toy version of itself, and render all environmental effects with realistic physical behaviour.
+```
+
+## Second series
+
+For deeper insights and techniques, explore the second part of this collection.
+
+✦  [Nano Banana Pro Guide](nano-banana-pro-guide.md)
