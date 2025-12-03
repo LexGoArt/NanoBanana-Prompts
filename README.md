@@ -6,6 +6,7 @@ A curated collection of prompts and experiments with Google's generative model (
 
 Make plush memes with Nano Banana Pro using a single prompt. This experiment turns drawn memes into photorealistic renders with plush characters. Share your version and tag me; I feature the best examples.
 
+
 ✦  Pick any meme and apply the prompt to transform it into a realistic scene with plush characters.
 
 ✦   Publish your version and tag me; I feature the best examples.
@@ -21,3 +22,4 @@ Turn this drawn meme into a photorealistic 3D render. Keep the composition, fram
 For deeper insights and techniques, explore the second part of this collection.
 
 ✦  [Nano Banana Pro Guide](nano-banana-pro-guide.md)
+✦ [Iconic Photography Styles](photography-style-prompts.md)
