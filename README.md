@@ -22,4 +22,5 @@ Turn this drawn meme into a photorealistic 3D render. Keep the composition, fram
 For deeper insights and techniques, explore the second part of this collection.
 
 ✦ [Nano Banana Pro Guide](nano-banana-pro-guide.md)<br>
-✦ [Iconic Photography Styles](photography-style-prompts.md)
+✦ [Iconic Photography Styles](photography-style-prompts.md)<br>
+✦ [3D Miniature Prompt](3d-miniature-prompt.md)
