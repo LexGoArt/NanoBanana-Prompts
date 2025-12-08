@@ -1,0 +1,12 @@
+# Tokyo Street Fashion AI Photoshoot
+
+A dual template and pose pack for creating photorealistic AI photoshoots in the gritty neon style of Tokyo street fashion. Use these prompts with Google's generative model (Gemini/Bard) to produce images that capture the moody atmosphere, dynamic angles and edgy outfits typical of Japanese street style.
+
+✦ Use the **Basic Prompt** when you want a complete scene defined for you: it keeps the identity from the uploaded selfie, places the subject in a Japanese public green phone booth and specifies the pose, camera perspective and environment.<br>
+✦ Use the **Clothing Template** when you want to swap the outfit from your reference: describe your own clothing or link a reference image, and combine it with any of the provided poses.<br>
+✦ The extended set includes nine curated poses and angles to build a varied fashion series. Simply repeat the base prompt and replace the pose name and perspective to generate a cohesive photoshoot.<br>
+✦ Ideal for client shoots, brand visualisations or creating unique content for social media.
+
+## Basic Prompt
+
+    This is an edit of the original photo. Keep only the face from the uploaded selfie — same identity and features. Do not use the selfie’s clothing. A girl inside a standard Japanese public green telephone booth. The booth has: a single sliding glass door, metal frame, overhead fluorescent light, and a green payphone fixed on the right interior wall (when facing the booth from outside). The green coiled cord must originate from the payphone on the right wall and extend naturally toward her hand, never from any other place. She stands at the edge of the open sliding door, facing forward, looking directly into the camera. She stretches the green receiver toward the lens, and the cord pulls from the payphone behind her on the right. Maintain all of the above, and apply the following pose: Low Angle Power Lean (she leans forward from the waist as the camera shoots slightly from below; the hand with the receiver dominates the frame). Extreme wide angle perspective and dynamic composition: strong forced perspective, slight fisheye distortion, dramatic spatial depth. Outfit: beige mini skirt with a black leather belt, beige winter jacket, beige chunky boots. Tokyo night environment with neon signs, wet pavement, reflections on glass. Gritty lo fi film mood. Photorealistic detail, dramatic wide angle geometry, stable booth layout. 2:3 ratio.
